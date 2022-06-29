@@ -1,2 +1,2 @@
 # Zacrac-analysis
-This is the Readme file of this Zacrac analysis folder
+This project is an exploratory analysis that attempts to answer the following question:
